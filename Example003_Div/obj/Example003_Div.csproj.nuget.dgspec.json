@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Серик\\гикбрейнс\\Examples\\Example003_Div\\Example003_Div.csproj": {}
+  },
+  "projects": {
+    "D:\\Серик\\гикбрейнс\\Examples\\Example003_Div\\Example003_Div.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Серик\\гикбрейнс\\Examples\\Example003_Div\\Example003_Div.csproj",
+        "projectName": "Example003_Div",
+        "projectPath": "D:\\Серик\\гикбрейнс\\Examples\\Example003_Div\\Example003_Div.csproj",
+        "packagesPath": "C:\\Users\\Серик\\.nuget\\packages\\",
+        "outputPath": "D:\\Серик\\гикбрейнс\\Examples\\Example003_Div\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Серик\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
